@@ -25,7 +25,7 @@ SECRET_KEY = 'in7f-+m-l=#i0gz0ew_he&r+&itzh4_gg-%=**=^9k24p0v%cc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<hailinw>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'hailinw.pythonanywhere.com']
 
 
 # Application definition
